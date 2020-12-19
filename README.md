@@ -1,2 +1,2 @@
 # app
-Svelte Application
+Application
